@@ -23,8 +23,9 @@ A fun and interactive number guessing game implemented in Python. Test your luck
 
 1. Ensure you have Python 3 installed on your system.
 2. Clone this repository:
-3. Navigate to the project directory:
-4. Run the game:
+   ```https://github.com/Athrudev/number-guessing-game.git```
+4. Navigate to the project directory:
+5. Run the game:
 
 
 ## Requirements
@@ -33,7 +34,7 @@ A fun and interactive number guessing game implemented in Python. Test your luck
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/number-guessing-game/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Athrudev/number-guessing-game.git) if you want to contribute.
 
 ## License
 
