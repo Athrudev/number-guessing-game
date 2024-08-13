@@ -28,6 +28,14 @@ A fun and interactive number guessing game implemented in Python. Test your luck
 5. Run the game:
 
 
+## Live Preview
+
+For a live preview of this project, you can use Google Colab. Click on the link below to open the notebook:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1QLc5pK3oZyNQY2aG46ors0tVCSG7Ezpt?usp=sharing)
+
+
+
 ## Requirements
 
 - Python 3.x
